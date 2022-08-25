@@ -11,3 +11,4 @@ IT 쪽으로 진학할 것이기 때문에 차후에 유용하게 사용할 것 
 220825 vPython 리듬게임 만들기
 vPython으로 리듬게임을 만들어보았다
 롱노트를 어떻게 구현하는 것이 좋을지 잘 모르겠다.
+link: https://www.glowscript.org/#/user/lmoon2674/folder/MyPrograms/program/RhythmGame
